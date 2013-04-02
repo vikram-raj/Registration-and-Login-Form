@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	height : 30px;
+	background : black;
+	border-radius: 15px;
+}
+h2{
+position: relative;
+left: 15px;
+color: white;
+}
+
+#strip{
+	width: 400px;
+	height: 50px;
+	background: black;
+	position: absolute;
+	top:20px;
+	left:800px;
+	border-radius: 15px;
+	}
+#login{
+	width: 95px;
+	position: absolute;
+	left: 830px;
+	top:30px;
+}
+
+#signup{
+	width: 95px;
+	position: absolute;
+	left: 950px;
+	top:30px;
+	}
+	
+#mark {
+	position: absolute;
+	left: 1100px;
+	top: 30px;
+	}
+
+#bg img {
+	height: 100%;
+	width: 1350px;
+	}
+
+#mark:hover{
+	padding-bottom:15px;
+	margin:-1px 12px 12px 0;
+}
